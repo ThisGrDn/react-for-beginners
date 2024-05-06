@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactPractice.git/static/css/main.b4d0e34d.css",
+    "main.js": "/ReactPractice.git/static/js/main.f9da44f9.js",
+    "index.html": "/ReactPractice.git/index.html",
+    "main.b4d0e34d.css.map": "/ReactPractice.git/static/css/main.b4d0e34d.css.map",
+    "main.f9da44f9.js.map": "/ReactPractice.git/static/js/main.f9da44f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d0e34d.css",
+    "static/js/main.f9da44f9.js"
+  ]
+}
